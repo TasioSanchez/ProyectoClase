@@ -12,6 +12,7 @@ class CincoNumeros {
 	}
 	 
 	System.out.println ("La suma es:" + suma);
-        System.out.println ("Borrar esto")
+        System.out.println ("Borrar esto");
+	System.out.println ("Esto tambie hay que borrarlo");	
 }
 }
